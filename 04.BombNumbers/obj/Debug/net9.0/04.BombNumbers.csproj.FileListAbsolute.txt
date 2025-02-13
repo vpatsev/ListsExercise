@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ListsExercise\04.BombNumbers\bin\Debug\net9.0\04.BombNumbers.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ListsExercise\04.BombNumbers\bin\Debug\net9.0\04.BombNumbers.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ListsExercise\04.BombNumbers\bin\Debug\net9.0\04.BombNumbers.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ListsExercise\04.BombNumbers\bin\Debug\net9.0\04.BombNumbers.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ListsExercise\04.BombNumbers\bin\Debug\net9.0\04.BombNumbers.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ListsExercise\04.BombNumbers\obj\Debug\net9.0\04.BombNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ListsExercise\04.BombNumbers\obj\Debug\net9.0\04.BombNumbers.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ListsExercise\04.BombNumbers\obj\Debug\net9.0\04.BombNumbers.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ListsExercise\04.BombNumbers\obj\Debug\net9.0\04.BombNumbers.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ListsExercise\04.BombNumbers\obj\Debug\net9.0\04.BombNumbers.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ListsExercise\04.BombNumbers\obj\Debug\net9.0\04.BombNumbers.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ListsExercise\04.BombNumbers\obj\Debug\net9.0\refint\04.BombNumbers.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ListsExercise\04.BombNumbers\obj\Debug\net9.0\04.BombNumbers.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ListsExercise\04.BombNumbers\obj\Debug\net9.0\04.BombNumbers.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ListsExercise\04.BombNumbers\obj\Debug\net9.0\ref\04.BombNumbers.dll
