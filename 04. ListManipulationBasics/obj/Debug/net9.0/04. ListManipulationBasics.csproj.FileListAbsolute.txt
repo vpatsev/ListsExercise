@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ListsExercise\04. ListManipulationBasics\bin\Debug\net9.0\04. ListManipulationBasics.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ListsExercise\04. ListManipulationBasics\bin\Debug\net9.0\04. ListManipulationBasics.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ListsExercise\04. ListManipulationBasics\bin\Debug\net9.0\04. ListManipulationBasics.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ListsExercise\04. ListManipulationBasics\bin\Debug\net9.0\04. ListManipulationBasics.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ListsExercise\04. ListManipulationBasics\bin\Debug\net9.0\04. ListManipulationBasics.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ListsExercise\04. ListManipulationBasics\obj\Debug\net9.0\04. ListManipulationBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ListsExercise\04. ListManipulationBasics\obj\Debug\net9.0\04. ListManipulationBasics.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ListsExercise\04. ListManipulationBasics\obj\Debug\net9.0\04. ListManipulationBasics.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ListsExercise\04. ListManipulationBasics\obj\Debug\net9.0\04. ListManipulationBasics.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ListsExercise\04. ListManipulationBasics\obj\Debug\net9.0\04. ListManipulationBasics.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ListsExercise\04. ListManipulationBasics\obj\Debug\net9.0\04. ListManipulationBasics.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ListsExercise\04. ListManipulationBasics\obj\Debug\net9.0\refint\04. ListManipulationBasics.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ListsExercise\04. ListManipulationBasics\obj\Debug\net9.0\04. ListManipulationBasics.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ListsExercise\04. ListManipulationBasics\obj\Debug\net9.0\04. ListManipulationBasics.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ListsExercise\04. ListManipulationBasics\obj\Debug\net9.0\ref\04. ListManipulationBasics.dll

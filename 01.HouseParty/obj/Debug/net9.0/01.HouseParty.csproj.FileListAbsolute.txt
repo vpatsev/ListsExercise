@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ListsExercise\01.HouseParty\bin\Debug\net9.0\01.HouseParty.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ListsExercise\01.HouseParty\bin\Debug\net9.0\01.HouseParty.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ListsExercise\01.HouseParty\bin\Debug\net9.0\01.HouseParty.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ListsExercise\01.HouseParty\bin\Debug\net9.0\01.HouseParty.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ListsExercise\01.HouseParty\bin\Debug\net9.0\01.HouseParty.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ListsExercise\01.HouseParty\obj\Debug\net9.0\01.HouseParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ListsExercise\01.HouseParty\obj\Debug\net9.0\01.HouseParty.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ListsExercise\01.HouseParty\obj\Debug\net9.0\01.HouseParty.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ListsExercise\01.HouseParty\obj\Debug\net9.0\01.HouseParty.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ListsExercise\01.HouseParty\obj\Debug\net9.0\01.HouseParty.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ListsExercise\01.HouseParty\obj\Debug\net9.0\01.HouseParty.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ListsExercise\01.HouseParty\obj\Debug\net9.0\refint\01.HouseParty.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ListsExercise\01.HouseParty\obj\Debug\net9.0\01.HouseParty.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ListsExercise\01.HouseParty\obj\Debug\net9.0\01.HouseParty.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ListsExercise\01.HouseParty\obj\Debug\net9.0\ref\01.HouseParty.dll
